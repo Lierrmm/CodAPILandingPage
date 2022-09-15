@@ -2,7 +2,7 @@
     <div class="container px-5 py-24 mx-auto">
       <div class="flex flex-col text-center w-full mb-20">
         <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-rose-400">Supported Languages</h1>
-        <p class="lg:w-2/3 mx-auto leading-relaxed text-base">We offer support for multiiple languages so you aren't restricted to a single runtime.</p>
+        <p class="lg:w-2/3 mx-auto leading-relaxed text-base">We offer support for multiple languages so you aren't restricted to a single runtime.</p>
       </div>
       <div class="flex flex-wrap -m-4 justify-center text-center">
         <a href="https://docs.codapi.dev" target="_blank" rel="noreferrer noopener" class="p-4 md:w-1/4 sm:w-1/2 w-full">
