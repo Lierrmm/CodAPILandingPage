@@ -1,9 +1,9 @@
 <script lang="ts">
     import ColdWar from '../assets/coldwar.webp';
     import Vanguard from '../assets/vanguard.webp';
-    import MW from '../assets/mw.jpg';
-    import MW2 from '../assets/mw2.jpg';
-    import WZ from '../assets/wz.jpg';
+    import MW from '../assets/mw.webp';
+    import MW2 from '../assets/mw2.webp';
+    import WZ from '../assets/wz.webp';
 
     interface Game {
         title: string,
