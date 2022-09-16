@@ -1,5 +1,5 @@
 <script lang="ts">
-    import background from '../assets/background.jfif';
+    import background from '../assets/background.webp';
 </script>
 
 <div class="hero h-[800px]" style="background-image: url({background});">
