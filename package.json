@@ -7,7 +7,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "check": "svelte-check --tsconfig ./tsconfig.json",
-    "publish": "cat publish.txt | bash"
+    "upload": "cat publish.txt | bash"
   },
   "author": "Liam Gaskell",
   "license": "MIT",
