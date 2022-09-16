@@ -1,3 +1,5 @@
+import 'devicon/devicon.min.css'
+import 'daisyui/dist/full.css'
 import './index.css'
 
 import App from './App.svelte'

@@ -6,7 +6,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "check": "svelte-check --tsconfig ./tsconfig.json"
+    "check": "svelte-check --tsconfig ./tsconfig.json",
+    "publish": "cat publish.txt | bash"
   },
   "author": "Liam Gaskell",
   "license": "MIT",
@@ -14,6 +15,8 @@
     "@sveltejs/vite-plugin-svelte": "^1.0.5",
     "@tsconfig/svelte": "^3.0.0",
     "autoprefixer": "^10.4.11",
+    "daisyui": "^2.27.0",
+    "devicon": "^2.15.1",
     "postcss": "^8.4.16",
     "rollup-plugin-svelte-svg": "^1.0.0-beta.6",
     "svelte": "^3.50.1",
