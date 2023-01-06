@@ -33,7 +33,7 @@
       title: "C#",
       icon: "devicon-csharp-plain",
       supported: true,
-      link: "https://www.nuget.org/packages/CSharp-CODAPI",
+      link: "https://www.nuget.org/packages/CSharp-CODAPI/latest",
       css: "text-purple-400",
     },
   ];
