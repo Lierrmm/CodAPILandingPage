@@ -9,9 +9,9 @@
 <Header />
 
 <main>
-    <Hero />
-    <CodeSupport />
-    <GameSupport />
+  <Hero />
+  <CodeSupport />
+  <GameSupport />
 </main>
 
 <Footer />
